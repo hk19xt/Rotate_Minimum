@@ -15,7 +15,4 @@ public class Main {
         minimumOutput = RM.minimumValue(userInputs);
         System.out.println("The minimum value is " + minimumOutput);
     }
-}package Rotate_Min;
-
-public class Main {
-}
+}//Main
